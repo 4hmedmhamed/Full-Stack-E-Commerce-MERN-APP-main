@@ -1,4 +1,4 @@
-const backendDomin = process.env.PORT_back_end
+const backendDomin = "https://full-stack-e-commerce-mern-app-main-f3264x87p.vercel.app"
 const SummaryApi = {
     signUP : {
         url : `${backendDomin}/api/signup`,
